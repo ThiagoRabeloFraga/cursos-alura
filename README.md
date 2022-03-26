@@ -7,4 +7,5 @@ Cada curso está separado por em uma branch, que é identificada conforme a tabe
 
 | Branch ID | Nome do curso | URL do curso |
 |:---:|:---:|:---:|
-| dev/001 | HTML5 e CSS3 parte 1: a primeira página da Web | https://cursos.alura.com.br/course/html5-css3-primeiros-passos |
+| 001 | HTML5 e CSS3 parte 1: a primeira página da Web | https://cursos.alura.com.br/course/html5-css3-primeiros-passos |
+| 002 | HTML5 e CSS3 parte 2: posicionamento, listas e navegação | https://cursos.alura.com.br/course/html5-css3-posicionamento-listas-navegacao |
