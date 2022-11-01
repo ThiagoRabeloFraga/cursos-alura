@@ -1,7 +1,7 @@
 # cursos-alura
 Repositório pessoal de códigos-fonte desenvolvidos na realização dos cursos da Alura.
 
-Cada curso está separado por em uma branch, que é identificada conforme a tabela abaixo. Ao finalizar o curso, é realizado um _merge_ para a branch _main_.
+Cada curso está separado por em uma branch, que é identificada conforme a tabela abaixo. Ao finalizar o curso, é realizado um `merge` para a branch `main`.
 
 ## Tabela de branches e cursos respectivos:
 
