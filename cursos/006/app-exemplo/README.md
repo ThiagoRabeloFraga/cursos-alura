@@ -15,3 +15,13 @@ docker run -it --mount type=bind,source=<diretorio-do-volume>,target=/app ubuntu
 ```
 docker run -it --mount type=bind,source=meu-novo-volume,target=/app ubuntu bash
 ```
+
+## tmpfs
+
+```
+docker run -it --tmpfs=/app ubuntu bash
+```
+
+```
+docker run -it --mount type=tmpfs,target=/app ubuntu bash
+```
