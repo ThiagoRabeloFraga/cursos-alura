@@ -36,3 +36,14 @@ docker run -it --mount type=tmpfs,target=/app ubuntu bash
 ```
 docker network create --driver bridge minha-bridge
 ```
+
+## docker run com rede
+```
+docker run -d --name pong --network minha-bridge ubuntu sleep 1d
+```
+```
+docker run -d --name pong --network host ubuntu sleep 1d
+```
+```
+docker run -d --name pong --network none ubuntu sleep 1d
+```
