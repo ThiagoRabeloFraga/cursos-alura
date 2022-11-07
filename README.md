@@ -13,3 +13,4 @@ Cada curso está separado por em uma branch, que é identificada conforme a tabe
 |    004    |                            [HTML5 e CSS3 parte 4: avançando no CSS](https://cursos.alura.com.br/course/html5-css3-avancando-css)                            |      N      |
 |    005    | [Python: entendendo a Orientação a Objetos Python: entendendo a Orientação a Objetos](https://cursos.alura.com.br/course/python-3-intro-orientacao-objetos) |      N      |
 |    006    |                    [Docker: criando e gerenciando containers](https://cursos.alura.com.br/course/docker-criando-gerenciando-containers)                     |      S      |
+|    007    |                        [Node.js Parte 1: Inovando com JavaScript no backend](https://cursos.alura.com.br/course/nodejs-fundamentos)                         |      N      |
