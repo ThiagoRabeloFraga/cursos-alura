@@ -14,3 +14,4 @@ Cada curso está separado por em uma branch, que é identificada conforme a tabe
 |    005    | [Python: entendendo a Orientação a Objetos Python: entendendo a Orientação a Objetos](https://cursos.alura.com.br/course/python-3-intro-orientacao-objetos) |      N      |
 |    006    |                    [Docker: criando e gerenciando containers](https://cursos.alura.com.br/course/docker-criando-gerenciando-containers)                     |      S      |
 |    007    |                        [Node.js Parte 1: Inovando com JavaScript no backend](https://cursos.alura.com.br/course/nodejs-fundamentos)                         |      N      |
+|    008    |                      [Kubernetes: Pods, Services e ConfigMaps](https://cursos.alura.com.br/course/kubernetes-pods-services-configmap)                       |      N      |
